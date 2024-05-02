@@ -54,7 +54,7 @@ BWhite="\033[1;37m" # White
 #------------------logo---------------------#
 token = input(f""+BWhite+" ⌯"+BGreen+" Send Your Token : \033[1;37m ")
 ID = input(""+BWhite+" ⌯"+BGreen+" Send Your ID : \033[1;37m  ")
-	print(f'{Bl}←•━━━━━━━━━━━━•→')
+print(f'{Bl}←•━━━━━━━━━━━━•→')
 
 
 
